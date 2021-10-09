@@ -41,7 +41,9 @@
     "creationTimestamp": 1633730512990,
     "jwtSecretKey": "ZjNhOTg4YWY4YTM3MWE4YmMxYzZkMjg5MGE3YzJkYTY1MzUyNzY5NjJlMjllZjAwNmQwNTEzZGViMjMyMjczMGI1NjNmMmM2MmU3ZmQzYmU3ZGQ2M2ZjNDY3NjFkNjQ5MjBkMjFlNGNjMWRiMmZkMzI0MWJiNDM5YmVjMTFiMmQ=",
     "reactive": false,
-    "enableGradleEnterprise": false
+    "enableGradleEnterprise": false,
+    "entities": ["Region", "Country", "Location", "Department", "Task", "Employee", "Job", "JobHistory"],
+    "lastLiquibaseTimestamp": 1633764240000
   },
   "git-provider": "GitHub",
   "git-company": "kdaemonv",
